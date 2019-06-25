@@ -1,0 +1,5 @@
+WaterSystemName,County,City,Population,WaterSource,Activity,SystemID,ProvidedCity,GotData,DataGeoJson,DataBoundingBox
+D.C. WATER AND SEWER AUTHORITY,DISTRICT OF COLUMBIA,NOT REPORTED,632323,Surface water purchased,Active,DC0000002,False,False,[],[]
+JOINT BASE ANACOSTIA - BOLLING,DISTRICT OF COLUMBIA,NOT REPORTED,16559,Surface water purchased,Active,DC0000004,False,False,[],[]
+NAVAL STATION WASHINGTON - WNY,DISTRICT OF COLUMBIA,NOT REPORTED,15690,Surface water purchased,Active,DC0000003,False,False,[],[]
+WASHINGTON AQUEDUCT DIVISION,DISTRICT OF COLUMBIA,NOT REPORTED,0,Surface water,Active,DC0000001,False,False,[],[]
