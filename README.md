@@ -36,7 +36,7 @@ Its collected at the same time I collect the data from EPA.
 
 This data is saved in CSV files for every single state, the reason for this is because scraping was taking too long and if an error occurred progress would be lost
 
-Right now all the states except for NY and DC are scraped. Theres is an issue with NY where itsnot  proceding to the next 10 systems unless 5-10 min have passed. Im going let it run overnightand upload the file to the repo once its done
+Right now all the states except for NY and DC are scra8ped. Theres is an issue with NY where itsnot  proceding to the next 10 systems unless 5-10 min have passed. Im going let it run overnightand upload the file to the repo once its done
 
 One thing to note there were a few states that only provided what county the water system provides water to.
 
