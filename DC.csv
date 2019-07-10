@@ -1,5 +1,3 @@
-WaterSystemName,County,City,Population,WaterSource,Activity,SystemID,ProvidedCity,GotData,DataGeoJson,DataBoundingBox
-D.C. WATER AND SEWER AUTHORITY,DISTRICT OF COLUMBIA,NOT REPORTED,632323,Surface water purchased,Active,DC0000002,False,False,[],[]
-JOINT BASE ANACOSTIA - BOLLING,DISTRICT OF COLUMBIA,NOT REPORTED,16559,Surface water purchased,Active,DC0000004,False,False,[],[]
-NAVAL STATION WASHINGTON - WNY,DISTRICT OF COLUMBIA,NOT REPORTED,15690,Surface water purchased,Active,DC0000003,False,False,[],[]
-WASHINGTON AQUEDUCT DIVISION,DISTRICT OF COLUMBIA,NOT REPORTED,0,Surface water,Active,DC0000001,False,False,[],[]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b89a18ff4e2df089291e03b60f41c1dfeabf15305dabdd6bffd85716407a59d2
+size 623

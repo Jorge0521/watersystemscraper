@@ -1,10 +1,3 @@
-WaterSystemName,County,City,Population,WaterSource,Activity,SystemID,ProvidedCity,GotData,DataGeoJson,DataBoundingBox
-13 MILE CENTER,WILLIAMS,NOT REPORTED,50,Surface water purchased,Active,ND5311738,False,False,[],[]
-COAL CREEK STATION,MCLEAN,NOT REPORTED,532,Surface water,Active,ND2810954,False,False,[],[]
-FORDVILLE PUBLIC SCHOOL,WALSH,NOT REPORTED,75,Ground water,Active,ND5010352,False,False,[],[]
-"K & K CONSTRUCTION AND REPAIR, INC.",CASS,NOT REPORTED,70,Ground water,Active,ND0911393,False,False,[],[]
-MENARDS-BIDC,BURLEIGH,NOT REPORTED,120,Ground water,Active,ND0811773,False,False,[],[]
-MILTON R YOUNG STATION WELL - MPC,OLIVER,NOT REPORTED,150,Ground water,Active,ND3310177,False,False,[],[]
-RIDGEVIEW PARK,MCKENZIE,NOT REPORTED,85,Ground water,Active,ND2701623,False,False,[],[]
-TAPPEN PUBLIC SCHOOL,KIDDER,NOT REPORTED,160,Ground water,Active,ND2210933,False,False,[],[]
-WHITING OIL & GAS,MOUNTRAIL,NOT REPORTED,90,Ground water,Active,ND3111582,False,False,[],[]
+version https://git-lfs.github.com/spec/v1
+oid sha256:540cf31de830a7650fa28697a9dffcb39040d7187841d4d3001df1c0724a0dc1
+size 976
